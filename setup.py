@@ -6,7 +6,7 @@ entry_points = {
                         'bosa-plotter=plotter:main']
 }
 
-setup(name="boquien-salim",
+setup(name="bosa",
       version="2021.06",
       packages=find_packages('src'),
       package_dir={'': 'src'},
